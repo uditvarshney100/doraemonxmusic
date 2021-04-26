@@ -757,8 +757,8 @@ async def jiosaavn(client: Client, message_: Message):
              ],                     
              [
                InlineKeyboardButton(
-                   text="Join Updates Channel",
-                   url='https://t.me/LaylaList')
+                   text="Join Updates Group",
+                   url='https://t.me/doraemonXsupport')
              ],
              [       
                InlineKeyboardButton(
